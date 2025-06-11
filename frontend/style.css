@@ -1,54 +1,56 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #eef2f7;
-  }
-  
-  .container {
+}
+
+.container {
     max-width: 600px;
     margin: 40px auto;
-    background: white;
-    padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  }
-  
-  h1, h3 {
+    padding: 20px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h3 {
     text-align: center;
-  }
-  
-  form {
-    display: flex;
+}
+
+form {
     flex-direction: column;
     gap: 10px;
+    display: flex;
     margin-bottom: 20px;
-  }
-  
-  input, button {
-    padding: 10px;
+}
+
+input,
+button {
     font-size: 16px;
-  }
-  
-  button {
-    background-color: #2563eb;
-    color: white;
-    border: none;
+    padding: 10px;
+}
+
+button {
     cursor: pointer;
+    border: none;
     border-radius: 4px;
-  }
-  
-  table {
+    color: white;
+    background-color: #2563eb;
+}
+
+table {
     width: 100%;
     border-collapse: collapse;
-  }
-  
-  th, td {
+}
+
+th,
+td {
+    text-align: center;
     border: 1px solid #ccc;
     padding: 8px;
-    text-align: center;
-  }
-  
-  th {
-    background-color: #2563eb;
+}
+
+th {
     color: white;
-  }
-  
+    background-color: #2563eb;
+}
