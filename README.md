@@ -24,8 +24,8 @@ Aplicação web simples para cadastro de tarefas com backend em Node.js e persis
 ## 🧑‍💻 Como usar
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
+git clone https://github.com/PedroPugss/cadastro-tarefas-v3.git
+cd cadastro-tarefas-v3
 npm install
 node backend/server.js
 ```
